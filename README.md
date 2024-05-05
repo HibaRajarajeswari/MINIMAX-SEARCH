@@ -1,5 +1,7 @@
 # Lab Experiment 3: Minimaxsearch
-## AIM
+# DATE : 24/02/24
+## REGISTER NUMBER:212221040056
+# AIM
 ## Write a program to implement minimax search and find optimal value obtianed by root node .
 ## PROGRAM
 ```
